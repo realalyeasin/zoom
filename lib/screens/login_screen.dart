@@ -19,7 +19,6 @@ class _LoginScreenState extends State<LoginScreen> {
           const Text('Start or join a meeting').fontSize(24).fontWeight(FontWeight.bold),
           Image.asset('assets/images/onboarding.png').paddingSymmetric(vertical: 38.0),
           CustomButton(text: 'Google Sign In', onPressed: () async {
-
           })
         ],
       ),
