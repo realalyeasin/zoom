@@ -20,6 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
       _page = page;
     });
   }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
